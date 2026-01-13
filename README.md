@@ -4,7 +4,7 @@ A full stack Todo application built with MongoDB, Express.js, React.js, and Node
 
 ## ✨ Features
 - User authentication (Login, Logout)
-- Add, edit, delete, and complete todos
+- Add, delete, and complete todos
 - Responsive UI with Tailwind CSS
 - Secure API with JWT
 - Schema validation using Zod
